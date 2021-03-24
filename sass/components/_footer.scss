@@ -1,0 +1,38 @@
+.page-footer {
+  padding: 60px 0;
+  background-color: var(--bg-color-dark);
+}
+
+.footer-info {
+  text-align: center;
+
+  @media screen and (min-width: $desktop) {
+    text-align: unset;
+  }
+}
+
+.footer-info__address {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.712;
+  letter-spacing: 0.03em;
+
+  color: var(--font-color-white);
+}
+
+.link--footer {
+  margin-top: 9px;
+  padding: 0;
+
+  color: var(--transparent-links);
+
+  &:hover,
+  &:focus {
+    color: var(--accent-color);
+  }
+}

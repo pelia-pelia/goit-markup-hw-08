@@ -1,0 +1,26 @@
+:root {
+    --bg-color-main: #fff;
+    --bg-color-secondary: #f5f4fa;
+    --bg-color-dark: #2f303a;
+    --font-color-main: #212121;
+    --font-color-secondary: #757575;
+    --font-color-white: #fff;
+    --font-color-black: #000;
+    --accent-color: #2196f3;
+    --accent-color-op09: rgba(33, 149, 243, 0.9);
+    --bg-colour-button-hover: #188ce8;
+    --border-color: #ececec;
+    --social-link-color: #afb1b8;
+    --btn-boxshadow-color: rgba(0, 0, 0, 0.15);
+    --placeholder-color: rgba(117, 117, 117, 0.5);
+    --team-mate-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12),
+      0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    --card-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
+      0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    --transparent-links: rgba(255, 255, 255, 0.6);
+    --item-set-gap: 30px;
+    --transparent-items: rgba(47, 48, 58, 0.8);
+    --backdrop-op02: rgba(0, 0, 0, 0.2);
+    --timing-fn: cubic-bezier(0.4, 0, 0.2, 1);
+    --transiton-duration-time: 250ms;
+  }
